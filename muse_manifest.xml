@@ -1,0 +1,123 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mewailgidey.github.io" resolutions="1x,2x" timestamp="1577399159940">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_home-master.css" crc="131430571" ref="index"/>
+    <file name="nomq_preview_master_home-master.css" crc="4135102109" ref="index"/>
+    <file name="index.css" crc="357157478" ref="index"/>
+    <file name="nomq_index.css" crc="275902132" ref="index"/>
+    <file name="contact.css" crc="438730254" ref="contact"/>
+    <file name="nomq_contact.css" crc="225909916" ref="contact"/>
+    <file name="about.css" crc="4030500124" ref="about"/>
+    <file name="nomq_about.css" crc="3786787262" ref="about"/>
+    <file name="portfolio.css" crc="4225356744" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="272915544" ref="portfolio"/>
+    <file name="master_body.css" crc="212391451" ref="contact:about:portfolio"/>
+    <file name="nomq_preview_master_body.css" crc="347743372" ref="contact:about:portfolio"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:portfolio:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:portfolio"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:portfolio:contact"/>
+    <file name="webpro.js" crc="242022427" ref="index:about:portfolio:contact"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:about:portfolio:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:portfolio:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:about:portfolio:contact"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u18524.php" crc="381798621" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="bg.jpg" crc="533060197" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact"/>
+    <file name="u1555_states.png" crc="96346117" ref="index"/>
+    <file name="u1555_states_2x.png" crc="4176510611" ref="index"/>
+    <file name="u1555_states-a.png" crc="96346117" ref="index"/>
+    <file name="u1555_states-a_2x.png" crc="4176510611" ref="index"/>
+    <file name="bg2.jpg" crc="4270997181" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_2x.jpg" crc="533060197" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profile pic.jpg" crc="3860013393" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile pic_2x.jpg" crc="73678257" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile pic-u7276-fr.jpg" crc="3825266956" ref="about"/>
+    <file name="profile pic-u7276-fr_2x.jpg" crc="4123992809" ref="about"/>
+    <file name="profile pic-u7276-fr2.jpg" crc="202602670" ref="about"/>
+    <file name="profile pic-u7276-fr_2x2.jpg" crc="296474750" ref="about"/>
+    <file name="profile pic-u7276-fr3.jpg" crc="4122548612" ref="about"/>
+    <file name="profile pic-u7276-fr_2x3.jpg" crc="391853048" ref="about"/>
+    <file name="profile pic-u7276-fr4.jpg" crc="298484849" ref="about"/>
+    <file name="profile pic-u7276-fr_2x4.jpg" crc="57642555" ref="about"/>
+    <file name="profile pic-u7276-fr5.jpg" crc="3788790682" ref="about"/>
+    <file name="profile pic-u7276-fr_2x5.jpg" crc="4110246348" ref="about"/>
+    <file name="profile pic-u7276-fr6.jpg" crc="527314214" ref="about"/>
+    <file name="profile pic-u7276-fr_2x6.jpg" crc="184015941" ref="about"/>
+    <file name="profile pic-u7276-fr7.jpg" crc="209358056" ref="about"/>
+    <file name="profile pic-u7276-fr_2x7.jpg" crc="278313383" ref="about"/>
+    <file name="structrual model.jpg" crc="3872982363" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="-3d-.jpg" crc="3884181327" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="structrual model2.jpg" crc="273521874" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="structrual model_2x.jpg" crc="3872982363" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="-3d--u17589-fr.jpg" crc="4255810901" ref="portfolio"/>
+    <file name="-3d--u17589-fr_2x.jpg" crc="167320681" ref="portfolio"/>
+    <file name="structrual model-u17588-fr.jpg" crc="529101460" ref="portfolio"/>
+    <file name="structrual model-u17588-fr_2x.jpg" crc="4032074562" ref="portfolio"/>
+    <file name="-3d--u17589-fr2.jpg" crc="3915479571" ref="portfolio"/>
+    <file name="-3d--u17589-fr_2x2.jpg" crc="414071461" ref="portfolio"/>
+    <file name="structrual model-u17588-fr2.jpg" crc="3806476534" ref="portfolio"/>
+    <file name="structrual model-u17588-fr_2x2.jpg" crc="4117765656" ref="portfolio"/>
+    <file name="-3d--u17589-fr3.jpg" crc="216488850" ref="portfolio"/>
+    <file name="-3d--u17589-fr_2x3.jpg" crc="3942589626" ref="portfolio"/>
+    <file name="structrual model-u17588-fr3.jpg" crc="4145858142" ref="portfolio"/>
+    <file name="structrual model-u17588-fr_2x3.jpg" crc="462910767" ref="portfolio"/>
+    <file name="-3d--u17589-fr4.jpg" crc="4156519383" ref="portfolio"/>
+    <file name="-3d--u17589-fr_2x4.jpg" crc="3873226527" ref="portfolio"/>
+    <file name="u22317_states.png" crc="4233902173" ref="about:portfolio:contact"/>
+    <file name="u22317_states_2x.png" crc="458700162" ref="about:portfolio:contact"/>
+    <file name="u22317_states-a.png" crc="96346117" ref="about:portfolio:contact"/>
+    <file name="u22317_states-a_2x.png" crc="4176510611" ref="about:portfolio:contact"/>
+    <file name="-3d-2.jpg" crc="4196438418" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="-3d-_2x.jpg" crc="3884181327" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="445222016" seo="true" mt="1577396422300" redirect="true"/>
+  <file name="about.html" crc="210858041" seo="true" mt="1577399029431" redirect="true"/>
+  <file name="portfolio.html" crc="4215944122" seo="true" mt="1577399029431" redirect="true"/>
+  <file name="contact.html" crc="303127102" seo="true" mt="1577399029431" redirect="true"/>
+</manifest>
